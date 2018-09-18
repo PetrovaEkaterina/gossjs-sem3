@@ -1,0 +1,15 @@
+{
+  "name": "part2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Vera Nikitinskaya",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "timerpromise": "^1.0.0"
+  }
+}

@@ -8,4 +8,5 @@
 - [Task 3. Reverse'n'puppeteer](0709/task2)
 
 ## 14/09/2018
-- [Task 1. Timers (with `console.time`)](1409/task1/part1)
+- [Task 1. Timers part1 (with `console.time`)](1409/task1/part1)
+- [Task 1. Timers part2 (with `performance hooks`)](1409/task1/part2)
