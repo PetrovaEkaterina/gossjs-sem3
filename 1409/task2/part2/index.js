@@ -17,6 +17,6 @@ server.on('request', (req, res) => {
   if (parsedParams[0] === 'add' && parsedParams[1] && parsedParams[2]) {
     let a = Number(parsedParams[1]);
     let b = Number(parsedParams[2]);
-    res.end(JSON.stringify(`Сумма: ${a + b}`));
+    res.end(JSON.stringify({ "Сумма": a + b }));
   }
 });
