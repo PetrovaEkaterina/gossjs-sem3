@@ -21,3 +21,6 @@
 - Task 1. Simple sessions
   - [код](https://github.com/nikitinskaya/express-auth)
   - [демо](https://calm-dusk-88421.herokuapp.com/)
+- Task 2. FB auth with Passport
+  - [код](https://github.com/nikitinskaya/express-auth/tree/fbauth-dev)
+  - [демо](https://aqueous-tundra-60802.herokuapp.com/)
