@@ -14,6 +14,9 @@
 - [Task 2. Add api server ](1409/task2/part2)
 - [Node Performance API report](1409/perf_hooks_Nikitinskaya.pdf)
 
+## 23/11/2018
+- [RSA task](https://github.com/nikitinskaya/rsa_task)
+
 ## 30/11/2018
 - Task 1. Simple sessions
   - [код](https://github.com/nikitinskaya/express-auth)
