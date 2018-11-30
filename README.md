@@ -13,3 +13,8 @@
 - [Task 2. Date server ](1409/task2/part1)
 - [Task 2. Add api server ](1409/task2/part2)
 - [Node Performance API report](1409/perf_hooks_Nikitinskaya.pdf)
+
+## 30/11/2018
+- Task 1. Simple sessions
+  - [код](https://github.com/nikitinskaya/express-auth)
+  - [демо](https://calm-dusk-88421.herokuapp.com/)
