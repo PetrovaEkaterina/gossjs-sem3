@@ -40,3 +40,6 @@
 ## TERM-001
 
 ИТОГОВОЕ задание
+
+[код](https://github.com/nikitinskaya/blog-app)
+[демо](https://immense-headland-23951.herokuapp.com/)
